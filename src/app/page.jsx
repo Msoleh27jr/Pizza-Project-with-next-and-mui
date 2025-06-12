@@ -11,7 +11,7 @@ import React from "react";
 
 const page = () => {
   return (
-    <Box sx={{ maxWidth: "1500px", margin: "auto", marginBottom : "70px"}}>
+    <Box sx={{ maxWidth: "1400px", margin: "auto", marginBottom : "70px"}}>
       <Box
         sx={{
           display: "flex",

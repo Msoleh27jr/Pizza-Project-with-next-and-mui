@@ -148,7 +148,7 @@ export default function RootLayout({ children }) {
           </Box>
           <Box
             sx={{
-              maxWidth: { xs: "90%", md: "1500px" },
+              maxWidth: { xs: "90%", md: "1400px" },
               margin: "auto",
               paddingTop: "35px",
               display: "flex",
