@@ -4,7 +4,7 @@ Welcome to my **Pizza Shop Web App** – a stylish and responsive project built 
 
 This app allows users to explore pizza options and experience a modern, animated UI designed for speed and simplicity.
 
-🚀 **Live demo**: [View Website](https://your-deployment-link.vercel.app)
+🚀 **Live demo**: [View Website](https://pizza-project-with-next-and-mui.vercel.app/)
 
 ---
 
@@ -19,7 +19,7 @@ This app allows users to explore pizza options and experience a modern, animated
 
 ## 📸 Preview
 
-![Pizza Shop Screenshot](https://github.com/your-username/your-repo/assets/demo-pizza-image.png)
+![image](https://github.com/user-attachments/assets/8473fe14-b22b-459f-b886-e8d2e950f374)
 
 ---
 
